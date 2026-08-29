@@ -1,5 +1,5 @@
 {
-  "name": "@plasmohq/permission-ui",
+  "name": "@extenso/permission-ui",
   "version": "0.2.5",
   "description": "A set of react component to control extension permission",
   "main": "./dist/index.js",
@@ -34,7 +34,7 @@
   "devDependencies": {
     "@jest/globals": "30.5.0",
     "@jest/types": "30.5.0",
-    "@plasmohq/storage": "workspace:^1.15.0",
+    "@extenso/storage": "workspace:^1.15.0",
     "@types/node": "26.4.0",
     "@types/react": "19.2.18",
     "cross-env": "10.1.0",
